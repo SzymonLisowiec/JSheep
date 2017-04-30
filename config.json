@@ -1,0 +1,21 @@
+{
+	
+	"connection": {
+		"host": "localhost",
+		"port": 80
+	},
+	
+	"router": {
+		"api": true,
+		"publicFiles": true,
+		"aliases": {
+			"": "index",
+			"home": "index"
+		}
+	},
+	
+	"view": {
+		"theme": "default"
+	}
+	
+}
